@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{189FE731-CBAB-1B03-4A26-08E8FBDBDB1F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NumberWizard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/NumberWizard.cs" Line="33" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

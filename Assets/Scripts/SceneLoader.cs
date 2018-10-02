@@ -5,15 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour {
 
-    public void LoadNextScene()
-    {
-        
+    public void LoadNextScene() {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(currentSceneIndex++);
+        SceneManager.LoadScene(currentSceneIndex+1);
     }
-    public void LoadStartScene()
-    {
+
+    public void LoadStartScene()  {
         SceneManager.LoadScene(0);
+    }
+
+    public void QuitGame(){
+        Application.Quit();
     }
 
 }
